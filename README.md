@@ -1,6 +1,6 @@
 <h1 align="center">  &nbsp; Career Candid  </h1>
 
-  <img src=./client/public/memories-readme.png>
+  <img src=./client/public/logo.jpg>
 
 <h1></h1>
 
