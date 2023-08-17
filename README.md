@@ -100,8 +100,6 @@ $ npm start (for React client side development)
 <h1></h1>
 
 
-## 👨‍💻 &nbsp; Demo
-
 
 ## 💡 &nbsp; Key Concepts
 
