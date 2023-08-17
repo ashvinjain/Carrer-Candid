@@ -1,11 +1,11 @@
-<h1 align="center">  &nbsp; Memories App  </h1>
+<h1 align="center">  &nbsp; Career Candid  </h1>
 
   <img src=./client/public/memories-readme.png>
 
 <h1></h1>
 
 > Built with MERN stack (MongoDB, Express, React, and Node).
-> Memories App, where you can post interesting events that happened in your lives
+> Career Candid, where you can post interesting events that happened in your lives
 
 
 
@@ -31,7 +31,7 @@
 
  Full Stack MERN Application - from start to finish. 
 
- The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
+ The App is called "Career Candid" and it is a simple social media app that allows users to post interesting events that happened in their lives.
  with real app features like user authentication and social login using Google accounts.
 
 
@@ -106,24 +106,6 @@ $ npm start (for React client side development)
 
 ## 👨‍💻 &nbsp; Demo
 
-<p align="center">
-<p>Screenshoots of some main features</p>
-<img src=./demo_images/desktop.png>
-<p align="center">
-  <img src="./demo_images/iphone1.png" width="200" height="356">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="./demo_images/iphone2.png" width="200" height="356">
-</p>
- <br/>
- <p align="center">
-  <img src = "./demo_images/ipad.png" width="300" height="402"> 
-&nbsp; &nbsp; &nbsp; &nbsp;
- <img alt="tablet mockup 2" src="./demo_images/ipad2.png" width="300" height="402" margin="5px"/> 
-</p>
-</p>
-  
-
-<h1></h1>
 
 ## 💡 &nbsp; Key Concepts
 
@@ -160,9 +142,7 @@ $ npm start (for React client side development)
 
 # Author
 
-👤 &nbsp; **Atharva Yawalkar**
-
-- My website : [My website](https://atharva137.github.io/Atharva_Yawalkar/myPortfolio/)
-- Github :     [@atharva137](https://github.com/atharva137)
-- Linkedin :   [Atharva-yawalkar](https://www.linkedin.com/in/atharva-yawalkar-2416b41b2/)
-- Email :      [atharvayawalkar1377@gmail.com](mailto:atharvayawalkar1377@gmail.com)
+👤 &nbsp; **Ashvin Jain**
+- Github :     [@ashvinjain](https://github.com/ashvinjain)
+- Linkedin :   [ashvin-jain-595949234](https://www.linkedin.com/in/ashvin-jain-595949234/)
+- Email :      [ashvinjain2021@gmail.com](mailto:ashvinjain2021@gmail.com)
