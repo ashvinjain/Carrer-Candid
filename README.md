@@ -97,9 +97,6 @@ $ npm start (for React client side development)
 
 > For Google client Id you have to visit [Google developers console](https://console.cloud.google.com/apis/dashboard?pli=1) from here generate your respective client Id 
 
-<h1></h1>
-
-
 
 ## 💡 &nbsp; Key Concepts
 
